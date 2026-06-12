@@ -1,0 +1,20 @@
+# Built files
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.jks
+
+# Firebase secret — NEVER upload this
+google-services.json
+
+# Android build outputs
+app/build/
+
+# OS files
+.DS_Store
+Thumbs.db
